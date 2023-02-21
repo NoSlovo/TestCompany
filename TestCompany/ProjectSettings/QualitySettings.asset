@@ -40,7 +40,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: a31e9f9f9c9d4b9429ed0d1234e22103, type: 2}
+    customRenderPipeline: {fileID: 11400000, guid: 6b99f296ddd502b429af29e8be82d736, type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: Medium
@@ -76,7 +76,7 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: d847b876476d3d6468f5dfcd34266f96, type: 2}
+    customRenderPipeline: {fileID: 11400000, guid: c5dec7f786a583042bd29a9e0a67f3bf, type: 2}
     excludedTargetPlatforms: []
   - serializedVersion: 2
     name: High
@@ -112,13 +112,13 @@ QualitySettings:
     asyncUploadBufferSize: 16
     asyncUploadPersistentBuffer: 1
     resolutionScalingFixedDPIFactor: 1
-    customRenderPipeline: {fileID: 11400000, guid: 19ba41d7c0026c3459d37c2fe90c55a0, type: 2}
+    customRenderPipeline: {fileID: 11400000, guid: b9257e11af8c92c4f86ed488e6a5b712, type: 2}
     excludedTargetPlatforms: []
   m_PerPlatformDefaultQuality:
     Android: 1
-    Lumin: 2
     GameCoreScarlett: 2
     GameCoreXboxOne: 2
+    Lumin: 2
     Nintendo Switch: 2
     PS4: 2
     PS5: 2
