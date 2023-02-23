@@ -4,7 +4,7 @@ namespace GameResource.Sctipts
 {
     [RequireComponent(typeof(PlayerAnimator))]
     [RequireComponent(typeof(Rigidbody))]
-    public class SystemPlayerMove : MonoBehaviour
+    public class SystemMovePlayer : MonoBehaviour
     {
         [SerializeField] private DynamicJoystick _joystick;
         [SerializeField] private float _spead;
