@@ -1,19 +1,7 @@
 fileFormatVersion: 2
-guid: dbe979120375a2e429511870b7548cbe
-labels:
-- chainreactions
-- spritesheet
-- flare
-- smoke
-- fx
-- effects
-- shuriken
-- beam
-- lightning
-- fire
-- explosion
-- particles
+guid: 4ac4dc823e58710429a29b0f5ba6d669
 MonoImporter:
+  externalObjects: {}
   serializedVersion: 2
   defaultReferences: []
   executionOrder: 0
